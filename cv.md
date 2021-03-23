@@ -38,6 +38,3 @@ Sufficient knowledge of English to communicate with its native speakers Took par
 - Technology 
 - Music 
 - Sociology
-
-docs: update readme with additional information
-docs: update description of run() method
