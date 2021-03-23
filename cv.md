@@ -39,15 +39,5 @@ Sufficient knowledge of English to communicate with its native speakers Took par
 - Music 
 - Sociology
 
-
-
-
-
-
-fix: change tel. number
-fix: change mail
-fix: implement correct loading data from youtube
-fix: adjust social links for mobile
-
 docs: update readme with additional information
 docs: update description of run() method
