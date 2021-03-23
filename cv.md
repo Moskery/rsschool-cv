@@ -42,9 +42,7 @@ Sufficient knowledge of English to communicate with its native speakers Took par
 
 
 
-feat: add link to itstep
-feat: add C1 to Eng lvl
-feat: implement headers
+
 
 fix: change tel. number
 fix: change mail
